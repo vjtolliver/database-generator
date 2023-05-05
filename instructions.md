@@ -36,9 +36,9 @@ Products: /6
 
 
 Tags: /9
-
-
-
+{
+	"tag_name": "Purple"
+}
 
 DELETEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
 Category: /6
