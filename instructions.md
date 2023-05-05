@@ -13,9 +13,9 @@ Products:
     }
 
 Tags:
-
-
-
+{
+      "tag_name": "Black"
+    }
 
 PUTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
 Category: /6
@@ -25,12 +25,17 @@ Category: /6
 
 
 
-Products:
+Products: /6
+ {
+	  "product_name": "Medium Shirt",
+      "price": 200.00,
+      "stock": 3,
+      "tagIds": [9]
+}
 
 
 
-
-Tags:
+Tags: /9
 
 
 
@@ -39,7 +44,7 @@ DELETEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
 Category: /6
 
 
-Products:
+Products: /6
 
 
-Tags:
+Tags: /9
