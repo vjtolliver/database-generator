@@ -5,9 +5,12 @@ Category:
 }
 
 Products:
-
-
-
+{
+      "product_name": "Small Shirt",
+      "price": 200.00,
+      "stock": 3,
+      "tagIds": [7]
+    }
 
 Tags:
 
